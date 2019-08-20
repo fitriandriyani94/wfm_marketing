@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/wfm_marketing/static/css/main.b13a371a.chunk.css",
+    "main.js": "/wfm_marketing/static/js/main.ff9c4b0c.chunk.js",
+    "main.js.map": "/wfm_marketing/static/js/main.ff9c4b0c.chunk.js.map",
+    "runtime~main.js": "/wfm_marketing/static/js/runtime~main.5d59d97c.js",
+    "runtime~main.js.map": "/wfm_marketing/static/js/runtime~main.5d59d97c.js.map",
+    "static/css/2.ee615ac2.chunk.css": "/wfm_marketing/static/css/2.ee615ac2.chunk.css",
+    "static/js/2.25477b20.chunk.js": "/wfm_marketing/static/js/2.25477b20.chunk.js",
+    "static/js/2.25477b20.chunk.js.map": "/wfm_marketing/static/js/2.25477b20.chunk.js.map",
+    "index.html": "/wfm_marketing/index.html",
+    "precache-manifest.9c09179e30aec7c4530497b8f801e08c.js": "/wfm_marketing/precache-manifest.9c09179e30aec7c4530497b8f801e08c.js",
+    "service-worker.js": "/wfm_marketing/service-worker.js",
+    "static/css/2.ee615ac2.chunk.css.map": "/wfm_marketing/static/css/2.ee615ac2.chunk.css.map",
+    "static/css/main.b13a371a.chunk.css.map": "/wfm_marketing/static/css/main.b13a371a.chunk.css.map"
+  }
+}
